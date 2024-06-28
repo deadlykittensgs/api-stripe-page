@@ -1,0 +1,17 @@
+
+
+
+
+
+// subscription
+
+### 
+GET http://localhost:1337/api?api_key=0xVW018kvNme.WlIEcuo~_O6cQh0e9-H
+
+
+
+
+//prepay 
+
+### 
+GET http://localhost:1337/api?api_key=
